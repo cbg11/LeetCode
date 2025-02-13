@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/cbg11/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
