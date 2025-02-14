@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cbg11/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cbg11/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/cbg11/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
