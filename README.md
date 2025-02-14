@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/cbg11/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/cbg11/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
