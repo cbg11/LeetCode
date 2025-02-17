@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/cbg11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/cbg11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/cbg11/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/cbg11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/cbg11/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
