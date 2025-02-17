@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/cbg11/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/cbg11/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0657-robot-return-to-origin](https://github.com/cbg11/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/cbg11/LeetCode/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/cbg11/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/cbg11/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
