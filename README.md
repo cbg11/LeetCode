@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/cbg11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/cbg11/LeetCode/tree/master/0682-baseball-game) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/cbg11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/cbg11/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/cbg11/LeetCode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/cbg11/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/cbg11/LeetCode/tree/master/0054-spiral-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/cbg11/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/cbg11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/cbg11/LeetCode/tree/master/1791-richest-customer-wealth) |
