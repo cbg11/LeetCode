@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cbg11/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/cbg11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/cbg11/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/cbg11/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/cbg11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/cbg11/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/cbg11/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/cbg11/LeetCode/tree/master/0932-monotonic-array) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cbg11/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/cbg11/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/cbg11/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1677-matrix-diagonal-sum](https://github.com/cbg11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/cbg11/LeetCode/tree/master/1791-richest-customer-wealth) |
