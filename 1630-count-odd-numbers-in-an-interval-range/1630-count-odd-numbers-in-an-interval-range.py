@@ -5,8 +5,5 @@ class Solution(object):
         if high % 2 == 0:
             high -= 1 
         
-        if low > high:
-            return 0
-        
         return (high - low) // 2 + 1
             
