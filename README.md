@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/cbg11/LeetCode/tree/master/0242-valid-anagram) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/cbg11/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cbg11/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## String Matching
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/cbg11/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/cbg11/LeetCode/tree/master/0932-monotonic-array) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/cbg11/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/cbg11/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cbg11/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/cbg11/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/cbg11/LeetCode/tree/master/1791-richest-customer-wealth) |
