@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/cbg11/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/cbg11/LeetCode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/cbg11/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/cbg11/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/cbg11/LeetCode/tree/master/0067-add-binary) |
 | [1018-largest-perimeter-triangle](https://github.com/cbg11/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/cbg11/LeetCode/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/cbg11/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
